@@ -1,0 +1,29 @@
+{
+  "name": "learn-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjlai3/learn-redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjlai3/learn-redux/issues"
+  },
+  "homepage": "https://github.com/mjlai3/learn-redux#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babelify": "^8.0.0",
+    "jest": "^22.4.2"
+  },
+  "dependencies": {
+    "redux": "^3.7.2"
+  }
+}
